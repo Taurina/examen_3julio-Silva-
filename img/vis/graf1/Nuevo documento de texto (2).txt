@@ -1,0 +1,7 @@
+carrera,particular,municipal,subvencionado
+Comunicación Audiovisual y/o Multimedia(IP),11.5,26.3,62.2
+Comunicación Audiovisual y/o Multimedia(U),27.4,14.3,58.3
+Diseño de Ambientes e Interiores(IP),16.6,17.0,66.4
+Diseño de Vestuario(U),69.7,5.3,25.0
+Diseño de Vestuarios e Interiores(IP),18.2,21.3,60.5
+Diseño(U),54.9,11.9,33.2

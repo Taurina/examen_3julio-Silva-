@@ -1,0 +1,10 @@
+tipo de diseño,empleabilidad
+Diseño,69.16
+D.Ambiente,59.40
+D.Interiores,57.70
+D.Vestuario,55.39
+D.Comu.visual,76.80
+D.Gráfico,58.82
+D.Multimedia,64.60
+D.Industrial,68.17
+D.Productos,55.00
